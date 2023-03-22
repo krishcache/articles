@@ -53,3 +53,5 @@ Because of poor business model focussing on only generating revenue, the conscio
 <b>Lack of Recycling Technology</b></br>
 Though numerous technologies on various domains evolve every day, yet the need for building up efficient technology on material recycling is still in prehistoric. The waste components hitting the landfill which are not recyclable is increasing since we are only in research phase on how to disintegrate them to bring it back into the circle. </br> </br>
 Many automotive companies are yet to hop into the circular economy bandwagon as we have just begun realising the need of saving the earth’s resources.
+</br> </br>
+<b>Disclaimer:</b> The views expressed represent my personal opinions and do not necessarily represent the position of my current organization.
